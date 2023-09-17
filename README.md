@@ -1,16 +1,12 @@
-### Hi there 👋
+<h1 align="left">Hi 👋, I'm Azizullah Saeidi</h1>
+<h3 align="left">I am passionate about software development, writing test and reading books</h3>
 
-<!--
-**azizullahsaeidi/azizullahsaeidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p style="text-align:center">
+  <a href="https://github.com/azizullahsaeidi">
+    <img align="center"  width="49%"  src="https://github-readme-stats.vercel.app/api?username=azizullahsaeidi&show_icons=true&locale=en" alt="azizullahsaeidi" />
+  </a>
+  <a href="https://github.com/azizullahsaeidi">
+    <img align="center"  width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=azizullahsaeidi&" alt="azizullahsaeidi" />
+  </a>
+</p>
