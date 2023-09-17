@@ -4,9 +4,9 @@
 
 <p style="text-align:center">
   <a href="https://github.com/azizullahsaeidi">
-    <img align="center"  width="49%"  src="https://github-readme-stats.vercel.app/api?username=azizullahsaeidi&show_icons=true&locale=en" alt="azizullahsaeidi" />
+    <img align="center"  width="49%"  src="https://github-readme-stats.vercel.app/api?username=azizullahsaeidi&theme=dark&show_icons=true&locale=en" alt="azizullahsaeidi" />
   </a>
   <a href="https://github.com/azizullahsaeidi">
-    <img align="center"  width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=azizullahsaeidi&" alt="azizullahsaeidi" />
+    <img align="center"  width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=azizullahsaeidi&theme=dark" alt="azizullahsaeidi" />
   </a>
 </p>
